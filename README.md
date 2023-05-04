@@ -9,7 +9,7 @@
 > docker build -t karaels/webfortune .
 
 * run docker
-> docker run -dp 8003:5000 usuisot/webfortune
+> docker run -dp 8003:5000 karaels/webfortune
 
 * URL
 > http://10.92.21.106:8003/
